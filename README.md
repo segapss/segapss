@@ -1,6 +1,6 @@
 ### Hi there 👋
 <img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=Starship&logoColor=white"/>
-<img src="{https://www.linkedin.com/in/sungsoo-park-06382a1b9/}" />
+<img src="https://img.shields.io/badge/LinkedIn-0092FF?style=flat-square&logo=LinkedIn&link=https://www.linkedin.com/in/sungsoo-park-06382a1b9/">
 <!--
 **segapss/segapss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
