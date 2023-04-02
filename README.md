@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=Blog&logoColor=white"/>
+<img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=Starship&logoColor=white"/>
 <!--
 **segapss/segapss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
