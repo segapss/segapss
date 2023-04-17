@@ -4,4 +4,9 @@
 #### Open-to-work Robotics Engineer on MSc.Space Engineering ####
 After finalised my QA Engineer career on Chemical engineering, my challenge to Space Engineering drives me into new insight. My experiences varied on designing antenna communication system for range of S-band and UHF satellite communication, simulation of Gazebo on the ROS system for TU Berlin's elaborate rover manipulator, and participating in Tupex-8 space mission plan under the cooperation with our brilliant TU Berlin's colleagues. I have joined on ERC 2022 on Navigation tasks using fiducial markers to guide rover into destination. My goal after graduation is getting a job in robotics, space applications, and communication systems. My current thesis theme is about robot manipulaotor optimisation for tracking on Aruco marker using Stereo ZED Camera. 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=segapss&show_icons=true&theme=radical)
+![segapss's GitHub stats](https://github-readme-stats.vercel.app/api?username=segapss&show_icons=true&theme=radical)
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=segapss&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![segapss's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=segapss&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/segapss)
